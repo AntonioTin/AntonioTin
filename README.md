@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Virtual Assistant ready to assist to your Web works<br>🎓 Studied Bachelor of Science in Information Technology at Benguet State University, Philippines<br>🌻 Custom Website Design/Development using CMS, Product Listing, Product Research, Administrative Tasks
+👩‍💻 Virtual Assistant ready to assist on your Web works<br>🎓 Studied Bachelor of Science in Information Technology at Benguet State University, Philippines<br>🌻 Custom Website Design/Development using CMS, Product Listing, Product Research, Administrative Tasks
 
 
 # 💻 Tech Stack:
